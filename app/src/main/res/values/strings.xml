@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlashLight</string>
+    <string name="msg_error">string</string>
+    <string name="lbl_ok">string</string>
+</resources>
